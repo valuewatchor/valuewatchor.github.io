@@ -1,0 +1,2 @@
+ErrorDocument 404 /404.html
+lsapi_phpini /home/huqbgdmy/public_html/php.ini
